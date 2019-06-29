@@ -1,6 +1,6 @@
 # SGC
 
-Implementação de um Sistema para Gestão de Clínicas Médicas (simplificado), que por sua vez integra o trabalho avaliado homônimo da disciplina de Projeto de Desenvolvimento de Sistemas da Universidade Estácio de Sá - UESA, sob orientação do Prof. Dr. Anderson Theobaldo.
+Implementação de um Sistema para Gestão de Clínicas Médicas (simplificado), que por sua vez integra o trabalho avaliado homônimo da disciplina de Projeto de Desenvolvimento de Sistemas da Universidade Estácio de Sá - UESA, sob orientação do Prof. Anderson Theobaldo.
 
 Pré-requisitos<br>
 
