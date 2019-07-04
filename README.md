@@ -9,3 +9,5 @@ Mysql 5.5+<br>
 
 Instalação<br>
 Extraia os arquivos do .zip Copie o conteúdo da pasta extraída e cole-os dentro do diretório do seu servidor ou local host; Criar o Banco de dados e popular com a schema (bd_clinica.sql) que se encontra da pasta banco-de-dados. E alterar o arquivo Conexao.php que se encontra dentro da pasta class. substitua "localhost" pelo IP:PORTA da sua máquina, caso seja necessário;
+
+Link para o backlok -> http://bit.ly/backlog-sgc
